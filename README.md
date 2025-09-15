@@ -1,4 +1,4 @@
-# Project Setup Commands - npm/npx vs yarn
+# Project Setup Commands - npm/npx/yarn
 
 A comprehensive guide to create different types of projects using both npm/npx and yarn package managers.
 
